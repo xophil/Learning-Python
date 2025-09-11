@@ -1,1 +1,1 @@
-This Github repository contains all the notes I have made while learning programming/ coding.
+This Github repository contains all the notes and tasks I have completed while learning Python programming.
