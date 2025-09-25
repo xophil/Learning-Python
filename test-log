@@ -1,0 +1,10 @@
+Hello This is a test file
+
+alice SUCCESS
+bob FAIL
+charlie FAIL
+alice FAIL
+bob SUCCESS
+bob SUCCESS
+charlie FAIL
+charlie SUCCESS
